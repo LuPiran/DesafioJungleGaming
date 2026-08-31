@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.env
+*.log
+.mikro-orm-cache/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+test-results/
+load-results/
+/web/

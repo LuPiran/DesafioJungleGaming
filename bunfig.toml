@@ -1,0 +1,6 @@
+[install]
+optional = false
+
+[test]
+timeout = 30000
+coverageSkipTestFiles = true
